@@ -7,3 +7,8 @@ AI-powered Resume Analyzer that evaluates how well a resume matches a job descri
 
 ### Example Output
 ![Example Output](screenshots/example_output.png)
+## Live Demo
+
+You can try the AI Resume Analyzer here:
+
+[Launch the App](https://partyrock.aws/u/sushith/ha2R0JSJX/Resume-Review-Against-JD/snapshot/Uha11VQ7o)
